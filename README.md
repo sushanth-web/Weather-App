@@ -6,7 +6,7 @@ A visually engaging weather forecast widget designed using **TailwindCSS** and *
 
 ## 🔗 Live Demo
 
-👉 [Add your deployed website link here](https://your-deployed-link.com)
+https://weather-app-ashy-one-61.vercel.app/
 
 ---
 
